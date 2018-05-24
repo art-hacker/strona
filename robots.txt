@@ -1,0 +1,3 @@
+User-agent: *
+Host: http://strona.ru
+Sitemap: http://strona.ru/sitemap.xml

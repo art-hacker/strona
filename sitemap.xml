@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <url>
+        <loc>http://strona.ru/</loc>
+        <lastmod>2018-05-25T03:00:20+03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://strona.ru/factures.html</loc>
+        <lastmod>2018-05-25T03:00:20+03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://strona.ru/technology.html</loc>
+        <lastmod>2018-05-25T03:00:20+03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://strona.ru/price.html</loc>
+        <lastmod>2018-05-25T03:00:20+03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://strona.ru/about.html</loc>
+        <lastmod>2018-05-25T03:00:20+03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://strona.ru/partner.html</loc>
+        <lastmod>2018-05-25T03:00:20+03:00</lastmod>
+    </url>
+</urlset>
